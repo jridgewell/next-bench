@@ -1,0 +1,17 @@
+{
+  "name": "turbopack-test-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "next dev --turbo"
+  },
+  "dependencies": {
+    "next": "13.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@next/react-refresh-utils": "13.0.3",
+    "react-refresh": "0.14.0"
+  }
+}
